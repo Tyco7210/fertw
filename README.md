@@ -1,1 +1,1 @@
-# fertw
+# GitHub Activity Generator
